@@ -2088,7 +2088,7 @@ form.modal-content.form.need-help-modal::after{content:"";background:#fff;positi
 
 .win-buttons{height:51px !important;}
 
-.guild-header{border-bottom:2px solid var(--main-color);top:-10px;}
+.guild-header{border-bottom:2px solid var(--zap-color);top:-10px;}
 
 .guild-header header{padding:28px 24px 14px 28px;}
 
