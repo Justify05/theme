@@ -94,7 +94,7 @@ background-repeat:no-repeat;padding-top:8px;padding-bottom:8px;text-align:center
 
 .tab-bar.SIDE{margin-right:-17px;}
 
-.guild-header ul{background:#19191b !important;transition:transform .5s cubic-bezier(0.18, 0.89, 0.32, 1.28) !important;padding-top:100px;top:-56px;border-bottom:2px solid var(--main-color);}
+.guild-header ul{background:#19191b !important;transition:transform .5s cubic-bezier(0.18, 0.89, 0.32, 1.28) !important;padding-top:100px;top:-56px;border-bottom:2px solid var(--zap-color);}
 
 .add-friend-popout .btn{background-color:#19191b !important;}
 
