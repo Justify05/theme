@@ -170,7 +170,7 @@ div.avatar-large{border-radius:5px;}
 
 .channel-members .member:hover>.avatar-small{margin-left:-14px;}
 
-.guild-header{border-bottom:2px solid var(--zap-color);}
+.guild-header{border-bottom:0px solid var(--zap-color);}
 
 .theme-dark .message-group .comment .markup pre{background:#141417 !important;border-color:#111113 !important;}
 
