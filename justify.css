@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 :root {
-	--version-content: "3.1"
+	--version-content: "0.1"
 }
 /* Version Displayed */
 
@@ -170,7 +170,7 @@ div.avatar-large{border-radius:5px;}
 
 .channel-members .member:hover>.avatar-small{margin-left:-14px;}
 
-.guild-header{border-bottom:0px solid var(--zap-color);}
+.guild-header{border-bottom:2px solid var(--hover-color);}
 
 .theme-dark .message-group .comment .markup pre{background:#141417 !important;border-color:#111113 !important;}
 
